@@ -1,7 +1,7 @@
 name: Deploy MultiDocker
 on:
   push:
-    #workflow_dispatch:
+    workflow_dispatch:
     branches:
       - main
  
